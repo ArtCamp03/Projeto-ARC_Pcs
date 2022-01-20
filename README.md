@@ -14,3 +14,9 @@ npm run dev
 // dioshopping
 
 npm run start
+
+
+## imagem:
+
+<div align="center" <img src="./GamerFlix.jpg" width="700px">
+  </div>
