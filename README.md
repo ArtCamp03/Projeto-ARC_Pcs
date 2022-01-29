@@ -19,5 +19,5 @@ npm run start
 ## imagem:
 
 <div align="center" >
-<img src="./GamerFlix.jpg" width="700px">
+<img src="./" width="700px">
   </div>
