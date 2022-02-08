@@ -14,10 +14,3 @@ npm run dev
 // dioshopping
 
 npm run start
-
-
-## imagem:
-
-<div align="center" >
-<img src="./" width="700px">
-  </div>
